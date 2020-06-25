@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form3.h(183,1): error C2653: 'CppCLRWinformsProjekt': 클래스 또는 네임스페이스 이름이 아닙니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form3.h(183,25): error C2065: 'Form1': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form3.h(183,32): error C2065: 'f1': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form3.h(183,1): error C2061: 구문 오류: 식별자 'Form1'
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form3.h(184,2): error C2065: 'f1': 선언되지 않은 식별자입니다.
+  Form0.cpp
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(282,14): error C2039: 'Form0': 'DB_Project'의 멤버가 아닙니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form2.h(5): message : 'DB_Project' 선언을 참조하십시오.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(282,1): error C2065: 'Form0': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(282,21): error C2065: 'f': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(282,43): error C2039: 'Form0': 'DB_Project'의 멤버가 아닙니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form2.h(5): message : 'DB_Project' 선언을 참조하십시오.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(282,1): error C2061: 구문 오류: 식별자 'Form0'
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form1.h(283,2): error C2065: 'f': 선언되지 않은 식별자입니다.
+  Form1.cpp
+  Form2.cpp
+  Form3.cpp
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(289,15): error C2039: 'Form3': 'DB_Project'의 멤버가 아닙니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(5): message : 'DB_Project' 선언을 참조하십시오.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(289,1): error C2065: 'Form3': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(289,22): error C2065: 'f3': 선언되지 않은 식별자입니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(289,45): error C2039: 'Form3': 'DB_Project'의 멤버가 아닙니다.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(5): message : 'DB_Project' 선언을 참조하십시오.
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(289,1): error C2061: 구문 오류: 식별자 'Form3'
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\Form0.h(290,3): error C2065: 'f3': 선언되지 않은 식별자입니다.
+  코드를 생성하고 있습니다...

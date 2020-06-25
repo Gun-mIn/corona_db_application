@@ -1,0 +1,9 @@
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\x64\Release\DB_Project.exe.config
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.exe.config
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.Form0.resources
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.Form1.resources
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.Form2.resources
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.Form3.resources
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.vcxproj.GenerateResource.cache
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.vcxproj.CopyComplete
+C:\Users\Gwon\Desktop\20-1학기\데이터베이스\DB_Project\DB_Project\x64\Release\DB_Project.vcxprojAssemblyReference.cache
